@@ -12,3 +12,10 @@ The final step was data visualization, where an interactive dashboard was create
 Tools Used
 Power BI
 DAX
+
+![Overview](screenshots/OverviewPage.png)
+![Geography Page](screenshots/GeographyPage.png)
+![Products Page](screenshots/Products.png)
+![Profit Page](screenshots/ProfitPage.png)
+![Trend Page](screenshots/TrendPage.png)
+![Percentage Page](screenshots/PercentagePage.png)
